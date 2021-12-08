@@ -16,7 +16,3 @@ https://blog.restcase.com/6-most-significant-changes-in-oas-3-0/
 ## Reference in Schema:
 
 ![image](https://user-images.githubusercontent.com/12099889/145229989-79826450-e509-4a87-8982-795338a39901.png)
-
-
-dsad
-
