@@ -10,3 +10,9 @@ Difference betwheen specification:
 https://blog.restcase.com/6-most-significant-changes-in-oas-3-0/
 
 ![image](https://user-images.githubusercontent.com/12099889/145227676-65a90dca-2179-4f13-8f26-a8f7ee38c618.png)
+
+<br>
+
+## Reference in Schema:
+
+![image](https://user-images.githubusercontent.com/12099889/145229989-79826450-e509-4a87-8982-795338a39901.png)
